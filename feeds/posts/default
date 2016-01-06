@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+      xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss"
+      xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-1925427329920092659</id>
+    <updated>2016-01-05T16:46:16.223+01:00</updated>
+    <category term="teamcity"/>
+    <category term="nuget"/>
+    <category term="java"/>
+    <category term="teamcity plugin"/>
+    <category term=".net"/>
+    <category term="ci"/>
+    <category term="build"/>
+    <category term="opensource"/>
+    <category term="teamcity api"/>
+    <category term="c#"/>
+    <category term="openapi"/>
+    <category term="package"/>
+    <category term="nupkg"/>
+    <category term="teamcity agent"/>
+    <category term="kotlin"/>
+    <category term="plugin"/>
+    <category term="github"/>
+    <category term="nuget feed"/>
+    <category term="servicemessage"/>
+    <category term="teamcity runner"/>
+    <category term="feature"/>
+    <category term="free-time"/>
+    <category term="grunt"/>
+    <category term="javadoc"/>
+    <category term="javascript"/>
+    <category term="library"/>
+    <category term="nuget feed auth"/>
+    <category term="teamcity 7.1"/>
+    <category term="utility"/>
+    <category term="windows"/>
+    <category term="VSS SourceSafe"/>
+    <category term="credentials"/>
+    <category term="debug"/>
+    <category term="dvcs"/>
+    <category term="hg"/>
+    <category term="linux"/>
+    <category term="mq"/>
+    <category term="node.js"/>
+    <category term="persist"/>
+    <category term="teamcity EAP"/>
+    <category term="trigger"/>
+    <category term="vcs"/>
+    <category term="wtf"/>
+    <category term="Component"/>
+    <category term="Component Container"/>
+    <category term="DI"/>
+    <category term="Dependency Injection"/>
+    <category term="IDEA"/>
+    <category term="IDEA api"/>
+    <category term="IDEA plugin"/>
+    <category term="Intellij api"/>
+    <category term="Intellij plugin"/>
+    <category term="IoC"/>
+    <category term="JRE"/>
+    <category term="Spring"/>
+    <category term="Spring Framework"/>
+    <category term="Spring IoC"/>
+    <category term="android"/>
+    <category term="ant"/>
+    <category term="application"/>
+    <category term="bdd"/>
+    <category term="branches"/>
+    <category term="c++"/>
+    <category term="classloaders"/>
+    <category term="codebetter.com"/>
+    <category term="codegeneration"/>
+    <category term="concurrency"/>
+    <category term="coverage"/>
+    <category term="dotCover"/>
+    <category term="frame"/>
+    <category term="git"/>
+    <category term="google play"/>
+    <category term="gulp"/>
+    <category term="helper"/>
+    <category term="hint"/>
+    <category term="intellij"/>
+    <category term="intellij IDEA"/>
+    <category term="junit"/>
+    <category term="jvm"/>
+    <category term="leak"/>
+    <category term="market"/>
+    <category term="mercurial"/>
+    <category term="mono"/>
+    <category term="msbuild"/>
+    <category term="powershell"/>
+    <category term="process"/>
+    <category term="rant"/>
+    <category term="save"/>
+    <category term="security"/>
+    <category term="stack"/>
+    <category term="stacktrace"/>
+    <category term="suse"/>
+    <category term="syntax"/>
+    <category term="template"/>
+    <category term="test"/>
+    <category term="test framework"/>
+    <category term="tool"/>
+    <category term="update"/>
+    <category term="xunit"/>
+    <category term="youtrack"/>
+    <title type="text">Eugene on dev</title>
+    <subtitle type="html">Here I write some interesting stories about Java, .NET, NuGet, TeamCity, Kotlin, Web and other
+        technologies I work daily.
+    </subtitle>
+    <link rel="alternate" type="text/html" href="http://blog.jonnyzzz.name/"/>
+    <author>
+        <name>Eugene Petrenko</name>
+        <email>blog@jonnyzzz.com</email>
+    </author>
+    <entry>
+        <id>tag:blogger.com,1999:blog-1925427329920092659.post-428770191132969508</id>
+        <published>2015-11-22T22:20:00.000+01:00</published>
+        <updated>2015-11-22T22:20:04.283+01:00</updated>
+        <title type="text">Move Move Move</title>
+        <summary type="text">
+            I decided to consolidate by web resources. This blog is closing soon.
+
+
+            Please find my blog and personal page at new address <a href="http://jonnyzzz.com">http://jonnyzzz.com</a>
+
+            I will close current blog, so you may need to update your ATOM/feed subscription.
+        </summary>
+        <link rel="replies" type="application/atom+xml"
+              href="http://jonnyzzz.com" title="Post Comments"/>
+        <author>
+            <name>Eugene Petrenko</name>
+            <uri>https://plus.google.com/100584882319622985898</uri>
+            <email>noreply@blogger.com</email>
+        </author>
+        <thr:total>0</thr:total>
+    </entry>
+</feed>
